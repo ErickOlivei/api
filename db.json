@@ -1,0 +1,216 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta básica",
+      "price": 19.99,
+      "category": "Camisetas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "name": "Calça jeans",
+      "price": 39.99,
+      "category": "Calças",
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "name": "Vestido floral",
+      "price": 29.99,
+      "category": "Vestidos",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    
+    {
+      "id": 5,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 9,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 10,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 11,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 13,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 14,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 15,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 16,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 17,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 18,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 19,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 20,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 21,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 22,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 23,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 24,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 25,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 26,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 27,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 28,
+      "name": "Blusa de inverno",
+      "price": 49.99,
+      "category": "Blusas",
+      "sizes": ["S", "M", "L"]
+    }
+
+  ],
+  "categories": [
+    { "id": 1, "name": "Camisetas" },
+    { "id": 2, "name": "Calças" },
+    { "id": 3, "name": "Vestidos" },
+    { "id": 4, "name": "Blusas" }
+  ],
+  "customers": [
+    { "id": 1, "name": "Maria Silva", "email": "maria@example.com" },
+    { "id": 2, "name": "João Souza", "email": "joao@example.com" }
+  ]
+}
+
+  
+  
